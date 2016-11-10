@@ -1,0 +1,29 @@
+{
+  "name": "hapi-firebase",
+  "version": "0.1.0",
+  "description": "HapiJS and Firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/time2hack/hapi-firebase.git"
+  },
+  "keywords": [
+    "hapi",
+    "firebase"
+  ],
+  "author": "Pankaj Patel <patel.pankaj@live.in> (http://pankaj.pro)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/time2hack/hapi-firebase/issues"
+  },
+  "homepage": "https://github.com/time2hack/hapi-firebase#readme",
+  "dependencies": {
+    "firebase": "^3.6.0",
+    "hapi": "^15.2.0",
+    "inert": "^4.0.2",
+    "vision": "^4.1.0"
+  }
+}
